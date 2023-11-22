@@ -1,5 +1,3 @@
-# Cafe-Management-System
-Certainly! Below is an example README.md file for your Cafe Management System project:
 
 ---
 
@@ -66,4 +64,3 @@ Special thanks to [contributors](CONTRIBUTORS.md) who have helped in the develop
 
 ---
 
-Feel free to customize this README.md according to your project specifics, providing more details, installation instructions, or additional functionalities if needed.
